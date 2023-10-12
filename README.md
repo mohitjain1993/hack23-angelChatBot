@@ -1,27 +1,36 @@
-# ChatBox
+# Problem statement
+    Client faces so many problems with the app it could be anything regarding order, MF order, purchase
+    redemption, funds adding , withdrawal, app not working, order getting rejected although kyc is cleared
+    and updated etc etc.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.7.
+# Concept to address problem :-
+    Concept behind this problem is to come up with the service in the app wherein client can avail from the
+    app itself wherein he will get the immediate response from the app.
 
-## Development server
+    "Say if I’m using the app and went in help out section i may directly get the assist from the customer
+    service people either or chat or directly call means if I’m giving a miscall i will get a call from the angel
+    customer service to address and resolve the issue on immediate basis and it can be any problem related
+    to our app.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+# Impact :-
+    Impact will grow more into best and highly rated customer service at client level an in an overall broking
+    industry.
 
-## Code scaffolding
+# Goal or metric you are trying to impact :-
+    Goal is to create million of customers with our angel one and we can do that with best customer service
+    all over India.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+# Team Name :- 
+    Bumbling Brainstromers
+# Team Members :-
+    - Mohit Jain / MOHITSOHANLAL.JAIN@angelbroking.com
+    - Sarita Kasturi / Sarita.kasturi@angelbroking.com
+    - Kavita gupta / Kavita.Gupta@angelbroking.com
+    - Sudheesh Sashidharan / sudheesh.sashidharan@angelbroking.com
 
-## Build
+# How To run project :-
+    This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.7.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+    Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+    Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.

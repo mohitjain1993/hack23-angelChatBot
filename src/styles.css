@@ -1,1 +1,51 @@
 /* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif;  background-color: #EDF1F6; }
+
+.message-box-chat-sender{
+    background: #3366ff;
+    color: #FFF;
+    border-radius: 1rem;
+    margin-bottom: 5px;
+    padding: 0.5rem;
+    display: table;
+    cursor: pointer;
+    float: left;
+    margin-left: 5px;
+}
+
+.message-box-chat-sender-div{
+    background: #ebecee;
+    color: #000;
+    border-radius: 0.5rem;
+    margin-bottom: 5px;
+    padding: 0.5rem;
+    border-top-left-radius: 0;
+    cursor: pointer;
+    margin-left: 5px;
+    display: inline-grid
+}
+
+.message-box-chat-client {
+    background: #dadcdf;
+    border-radius: 0.5rem;
+    margin-bottom: 5px;
+    padding: 0.5rem;
+    border-top-right-radius: 0;
+    display: table;
+    float: right;
+}
+
+.message-box-right {
+    display: inline-block;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.message-box-left {
+    width: 100%;
+    display: block;
+    margin-bottom: 10px;
+}
