@@ -34,3 +34,6 @@
     Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
     Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
+
+    [screen-capture (2).webm](https://github.com/mohitjain1993/hack23-angelChatBot/assets/91452426/4f3db8a2-63a8-4030-97fc-f77dc664dad7)
